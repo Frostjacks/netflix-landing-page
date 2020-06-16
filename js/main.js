@@ -43,22 +43,21 @@ function selectItem(e) {
 
             <div class="tab-2-second">
                 <div class="tab-2-second-content">
-                <img src="./img/tab-content-2-1.png" alt="">
-                <p class="tab-2-p1">Watch on your TV</p>
-                <p class="tab-2-p2">Smart TVs, Playstation, Xbox, Chromecast, Apple TV, Blu-ray players and more.</p>
+                    <img src="./img/tab-content-2-1.png" alt="">
+                    <p class="tab-2-p1">Watch on your TV</p>
+                    <p class="tab-2-p2">Smart TVs, Playstation, Xbox, Chromecast, Apple TV, Blu-ray players and more.</p>
                 </div>
 
                 <div class="tab-2-second-content">
-                <img src="./img/tab-content-2-2.png" alt="">
-                <p class="tab-2-p1">Watch instantly or download for later</p>
-                <p class="tab-2-p2">Available on phone and tablet, wherever you go.</p>
+                    <img src="./img/tab-content-2-2.png" alt="">
+                    <p class="tab-2-p1">Watch instantly or download for later</p>
+                    <p class="tab-2-p2">Available on phone and tablet, wherever you go.</p>
                 </div>
 
                 <div class="tab-2-second-content">
-                <img src="./img/tab-content-2-3.png" alt="">
-                <p class="tab-2-p1">Use any computer</p>
-                <p class="tab-2-p2">Watch right on Netflix.com.</p>
-
+                    <img src="./img/tab-content-2-3.png" alt="">
+                    <p class="tab-2-p1">Use any computer</p>
+                    <p class="tab-2-p2">Watch right on Netflix.com.</p>
                 </div>
             </div>
         </div>        
