@@ -370,7 +370,7 @@ ul {
 
   .tab-2-second {
     display: grid;
-    grid-template-columns: repeat(1, 1fr);
+    grid-template-columns: 1fr;
   }
 
   /* .tab-3-content{
